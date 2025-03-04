@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/95cad4b5-13b1-47c7-b3ff-06c494cd9412
 
   <footer>
     <div class="container">
-      <p>&copy; 2025 Your Name. All rights reserved.</p>
+      <p>&copy; 2025 Hemant Nath. All rights reserved.</p>
     </div>
   </footer>
 
